@@ -1,0 +1,474 @@
+@import url('https://fonts.cdnfonts.com/css/sansation');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body {
+    background-color: #002B36;
+    width: 100%;
+    min-width: 1024px;
+    height: 100%;
+}
+.rect1 {
+/* Rectangle 1 */
+position: absolute;
+width: 960px;
+height: 1080px;
+left: 0px;
+top: 0px;
+background: #D9D9D9;
+}
+.rect2 {
+/* Rectangle 2 */
+position: absolute;
+width: 960px;
+height: 1080px;
+left: 960px;
+top: 0px;
+background: #F4AF0D;
+}
+.name {
+/* Arsen Kulanov */
+position: absolute;
+width: 363px;
+height: 234px;
+left: 778px;
+top: 160px;
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 107px;
+color: #000000;
+mix-blend-mode: luminosity;
+}
+.dev {
+/* Frame 1 */
+position: absolute;
+width: 281px;
+height: 55px;
+left: 1015px;
+top: 400px;
+background: #362E2E;
+/* Разработчик */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 40px;
+text-align: center;
+color: #F4AF0D;
+}
+.logo {
+/* logo 1 */
+position: absolute;
+width: 86px;
+height: 86px;
+left: 917px;
+top: 58px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.lang {
+/* image 1 */
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1572px;
+top: 42px;
+}
+.lang-select {
+/* Выбрать язык */
+position: absolute;
+width: 245px;
+height: 29px;
+left: 1603px;
+top: 7px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+color: #000000;
+}
+.polygon1 {
+    /* Polygon 1 */
+position: absolute;
+width: 24px;
+height: 10px;
+left: 1842px;
+top: 58px;
+border-top: 10px;
+background: #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.devpp {
+/* image 2 */
+position: absolute;
+width: 166px;
+height: 166px;
+left: 875px;
+top: 562px;
+}
+.elipse1 {
+    /* Ellipse 1 */
+box-sizing: border-box;
+position: absolute;
+width: 216px;
+height: 215px;
+left: 850px;
+top: 538px;
+border-radius: 50%;
+background: #C9BEBE;
+border: 5px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line1 {
+    /* Line 1 */
+position: absolute;
+width: 1251.79px;
+height: 0px;
+left: -320px;
+top: 505px;
+mix-blend-mode: normal;
+border: 5px solid #8D8787;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(2px);
+transform: rotate(-54.89deg);
+}
+.line2 {
+    /* Line 2 */
+position: absolute;
+width: 1251.79px;
+height: 0px;
+left: -347px;
+top: 505px;
+mix-blend-mode: normal;
+border: 5px solid #8D8787;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(2px);
+transform: rotate(-54.89deg);
+}
+.line3 {
+    /* Line 3 */
+position: absolute;
+width: 1251.79px;
+height: 0px;
+left: -374px;
+top: 505px;
+mix-blend-mode: normal;
+border: 5px solid #8D8787;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(2px);
+transform: rotate(-54.89deg);
+}
+.line4 {
+    /* Line 4 */
+position: absolute;
+width: 1251.79px;
+height: 0px;
+left: -401px;
+top: 505px;
+mix-blend-mode: normal;
+border: 5px solid #8D8787;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(2px);
+transform: rotate(-54.89deg);
+}
+.line5 {
+    /* Line 5 */
+position: absolute;
+width: 1251.79px;
+height: 0px;
+left: -428px;
+top: 505px;
+mix-blend-mode: normal;
+border: 5px solid #8D8787;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(2px);
+transform: rotate(-54.89deg);
+}
+.line6 {
+    /* Line 6 */
+position: absolute;
+width: 1251.79px;
+height: 0px;
+left: -455px;
+top: 505px;
+mix-blend-mode: normal;
+border: 5px solid #8D8787;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(2px);
+transform: rotate(-54.89deg);
+}
+.rect3 {
+position: absolute;
+width: 696px;
+height: 102px;
+left: 264px;
+top: 978px;
+background: #D9D9D9;
+}
+.rect4 {
+    /* Rectangle 3 */
+position: absolute;
+width: 961px;
+height: 608px;
+left: 477px;
+top: 1264px;
+background: #221D1D;
+}
+.rect5 {
+    /* Rectangle 5 */
+position: absolute;
+width: 853px;
+height: 150px;
+left: 1067px;
+top: 930px;
+background: #F4AF0D;
+}
+.five-pointed-star {
+position: absolute;
+left: 14px;
+top: 1060px;
+--star-color:rgb(217, 217, 217);
+margin:1em auto;
+font-size:10em;
+position: relative;
+display: block;
+width: 0px;
+height: 0px;
+border-right: 1em solid transparent;
+border-bottom: 0.7em solid var(--star-color);
+border-left: 1em solid transparent;
+transform: rotate(35deg);
+}
+.five-pointed-star:before {
+border-bottom: 0.8em solid var(--star-color);
+border-left: 0.3em solid transparent;
+border-right: 0.3em solid transparent;
+position: absolute;
+height: 0;
+width: 0;
+top: -0.45em;
+left: -0.65em;
+display: block;
+content:"";
+transform: rotate(-35deg);
+}
+.five-pointed-star:after {
+position: absolute;
+display: block;
+top: 0.03em;
+left: -1.05em;
+width: 0;
+height: 0;
+border-right: 1em solid transparent;
+border-bottom: 0.7em solid var(--star-color);
+border-left: 1em solid transparent;
+transform: rotate(-70deg);
+content:"";
+}
+.line7 {
+    /* Line 7 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: 20px;
+top: 1545px;
+border: 20px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line8 {
+    /* Line 8 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: -35px;
+top: 1545px;
+border: 20px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line9 {
+    /* Line 9 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: -90px;
+top: 1545px;
+border: 20px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line10 {
+    /* Line 10 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: -230px;
+top: 1530px;
+border: 50px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line11 {
+    /* Line 11 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: 1000px;
+top: 1545px;
+border: 20px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line12 {
+    /* Line 12 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: 945px;
+top: 1545px;
+border: 20px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line13 {
+    /* Line 13 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: 890px;
+top: 1545px;
+border: 20px solid #001F27;
+transform: rotate(115.74deg);
+}
+.line14 {
+    /* Line 14 */
+position: absolute;
+width: 1054.64px;
+height: 0px;
+left: 750px;
+top: 1530px;
+border: 50px solid #001F27;
+transform: rotate(115.74deg);
+}
+.aboutz {
+    /* Обо мне */
+position: absolute;
+width: 438px;
+height: 107px;
+left: 741px;
+top: 1230px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 117px;
+color: #FFFFFF;
+}
+.aboutme {
+    /* Я front-end веб-разработчик. Я начинающий программист с хорошими знаниями HTML, CSS, JavaScript. */
+position: absolute;
+width: 869px;
+height: 446px;
+left: 525px;
+top: 1387px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+color: #FFFFFF;
+}
+.rect6 {
+    /* Rectangle 6 */
+position: absolute;
+width: 1920px;
+height: 526px;
+left: 0px;
+top: 2006px;
+background: #D9D9D9;
+}
+.contact {
+    /* Frame 3 */
+position: absolute;
+width: 324px;
+height: 74px;
+left: 75px;
+top: 2083px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #FFFFFF;
+/* Контакты */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+text-align: center;
+}
+.email {
+/* Frame 4 */
+position: absolute;
+width: 324px;
+height: 74px;
+left: 798px;
+top: 2081px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #FFFFFF;
+/* Почта */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+text-align: center;
+}
+.socmedia {
+/* Frame 5 */
+position: absolute;
+width: 324px;
+height: 74px;
+left: 1495px;
+top: 2081px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #FFFFFF;
+/* Почта */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+text-align: center;
+}
+.num {
+    /* +7 771 207 9887 */
+position: absolute;
+width: 374px;
+height: 54px;
+left: 61px;
+top: 2184px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+}
+.adress {
+    /* arsen_kulanov@inbox.ru */
+position: absolute;
+width: 596px;
+height: 54px;
+left: 690px;
+top: 2186px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+}
+.telegramm {
+    /* image 3 */
+position: absolute;
+width: 87px;
+height: 87px;
+left: 1613px;
+top: 2210px;
+}
+.polygon1:hover {
+    background:#2F2F2F
+}
